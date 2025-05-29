@@ -180,26 +180,9 @@ int main()
     ID00002001_startIP(ADDR1, DDS_PORT);
 
 
+
+
     
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     //Target IP: UNIFORM_RAND_GEN
     num_flows = 1
